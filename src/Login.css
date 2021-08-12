@@ -1,0 +1,76 @@
+
+
+.card {
+    
+    margin-top: -29%;
+    box-shadow: 0 20px 24px 0 rgba(117, 101, 101, 0.2);
+    transition: 0.3s;
+    width: 30%;
+    margin-left: 35%;
+    height: 90vh;
+    background-color: white;
+    position: relative;
+    z-index: 1;
+    
+}
+
+.logoImg {
+    width: 47%;
+    height: 40vh;
+    margin: 5% 0 0 18%;
+}
+
+.loginTitle {
+    text-align: center;
+    font-size: 40px;
+    font-weight: 500;
+    margin-top: 30%;
+}
+
+.signIn {
+    color: lightgray;
+    font-size: 15px;
+}
+
+.signIn:hover {
+    color: white;
+}
+
+.info {
+    text-align: center;
+    color: gray;
+}
+
+.effielTower {
+    
+    width: 20%;
+    height: 40vh;
+    margin-left: 22%;
+    -ms-transform: rotate(-25deg);
+    transform: rotate(-25deg);
+    
+}
+.effielTower img {
+    width: 10%;
+    height: 20vh;
+    overflow: hidden;
+    z-index: -1;
+}
+
+.liberty {
+    margin-top: -9%;
+    width: 15%;
+    height: 35vh;
+    margin-left: 23%;
+    -ms-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+
+}
+
+.pisaTower {
+   margin-top: -14%;
+   margin-left: 26%;
+   -ms-transform: rotate(-40deg);
+   transform: rotate(-40deg);
+
+}
